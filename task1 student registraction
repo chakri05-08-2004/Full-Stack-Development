@@ -1,4 +1,4 @@
-task-1
+
 -- Create Database
 CREATE DATABASE student_db;
 
